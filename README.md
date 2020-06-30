@@ -1,0 +1,2 @@
+# larahub
+Latihan ERD
